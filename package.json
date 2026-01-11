@@ -1,0 +1,12 @@
+{
+  "name": "langgraph-perplexity",
+  "version": "1.0.0",
+  "description": "python3.11 --version",
+  "main": "app.py",
+  "scripts": {
+    "start": "uvicorn app:app --reload --host 0.0.0.0 --port 8000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
